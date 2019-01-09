@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CRUDwithMVP</string>
+    <string name="add_contact">Add Contact</string>
+
+    <string name="db_name">Contacts.db</string>
+    <string name="table_name">Contacts</string>
+    <string name="id">Id</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="street">Street</string>
+    <string name="place">Place</string>
+
+    <string name="add_contact_title">Add Contact</string>
+    <string name="colon">:</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="ok">Ok</string>
+
+    <string name="name_empty">Name is cannot empty</string>
+    <string name="add_contact_message">Saving contact#8230</string>
+</resources>
